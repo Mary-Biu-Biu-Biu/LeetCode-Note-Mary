@@ -23,9 +23,8 @@ The order of problems will follow my summary in the following link: [算法学�
 
 ## D3-2020/12/02
 - **stack - medium**
-  - [ ] [1019. Next Greater Node In Linked List]()
-    - [source code]()
-  - [ ] [150. Evaluate Reverse Polish Notation]()  
-    - [source code]()
-  - [ ] [1381. Design a Stack With Increment Operation]()
-    - [source code]()
+  - [x] [150. Evaluate Reverse Polish Notation]()  
+    - [source code](2020-12-02/Evaluate-Reverse-Polish-Notation.js)
+- **other**
+  - [x] [53. Maximum Subarray(最大子序和)](https://leetcode-cn.com/problems/maximum-subarray/)
+    - [source code](2020-12-02/Maximum-Subarray.js)
