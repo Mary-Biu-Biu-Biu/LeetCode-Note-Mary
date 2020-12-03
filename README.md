@@ -28,3 +28,9 @@ The order of problems will follow my summary in the following link: [算法学�
 - **other**
   - [x] [53. Maximum Subarray(最大子序和)](https://leetcode-cn.com/problems/maximum-subarray/)
     - [source code](2020-12-02/Maximum-Subarray.js)
+
+## D4-2020/12/03
+  - [x] [70. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)
+    - [source code](2020-12-03/Climbing-Stairs.js)
+  - [x] [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+    - [source code](2020-12-03/Merge-Two-Sorted-Lists.js)

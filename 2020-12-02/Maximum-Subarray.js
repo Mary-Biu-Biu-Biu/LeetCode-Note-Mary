@@ -22,6 +22,7 @@ var maxSubArray = function (nums) {
     return totalmax
 }
 
+// test
 var nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 // nums = [-2, -1]
 // nums = [1, 2]
