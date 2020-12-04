@@ -34,3 +34,11 @@ The order of problems will follow my summary in the following link: [算法学�
     - [source code](2020-12-03/Climbing-Stairs.js)
   - [x] [21. Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
     - [source code](2020-12-03/Merge-Two-Sorted-Lists.js)
+
+## 算法-D5-2020/12/04
+  - [x] [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)（删除排序列表中的重复元素）
+    - [source code](2020-12-04/83.js)
+  - [x] [141. Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)（环形链表）
+    - [source code](2020-12-04/141.js)
+  - [x] [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)（反转链表）
+    - [source code](2020-12-04/206.js)
