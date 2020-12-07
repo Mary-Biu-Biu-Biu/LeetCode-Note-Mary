@@ -42,3 +42,9 @@ The order of problems will follow my summary in the following link: [算法学�
     - [source code](2020-12-04/141.js)
   - [x] [206. Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)（反转链表）
     - [source code](2020-12-04/206.js)
+
+## 算法-D6-2020/12/07
+- [x] 189. Rotate Array (旋转数组)  #数组
+  - [source code](2020-12-07\189.js)
+- [x] 33. Search in Rotated Sorted Array（搜索旋转排序数组）#数组
+  - [source code](2020-12-07\33.js)
