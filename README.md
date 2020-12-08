@@ -48,3 +48,9 @@ The order of problems will follow my summary in the following link: [算法学�
   - [source code](2020-12-07\189.js)
 - [x] 33. Search in Rotated Sorted Array（搜索旋转排序数组）#数组
   - [source code](2020-12-07\33.js)
+
+## 算法-D7-2020/12/08
+- [x] 19. Remove Nth Node From End of List（删除链表的倒数第N个节点）
+  - [source code](2020-12-08\19.js)
+- [x] 153. Find Minimum in Rotated Sorted Array（寻找旋转排序数组中的最小值）
+  - [source code](2020-12-08\153.js)
