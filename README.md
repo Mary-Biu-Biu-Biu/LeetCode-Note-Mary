@@ -54,3 +54,9 @@ The order of problems will follow my summary in the following link: [算法学�
   - [source code](2020-12-08\19.js)
 - [x] 153. Find Minimum in Rotated Sorted Array（寻找旋转排序数组中的最小值）
   - [source code](2020-12-08\153.js)
+
+## 算法-D8-2020/12/09
+- [x] 300. Longest Increasing Subsequence (最长上升子序列 )
+  - [source code](2020-12-09\300.js)
+- [x] 1143. Longest Common Subsequence（最长公共子序列）
+  - [source code](2020-12-09\1143.js)
