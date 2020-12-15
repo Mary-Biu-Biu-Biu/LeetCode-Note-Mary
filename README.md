@@ -66,10 +66,17 @@ The order of problems will follow my summary in the following link: [算法学�
 - [x] 112. Path Sum（路径总和）
 
 ## D10-2020/12/11
-[source codes](2020-12-11)
-- [x] [merge sort 归并排序](https://www.wolai.com/mary/vhPHPoSz2tLg7iQxY21nHU)
-- [x] [insertion sort 插入排序](https://www.wolai.com/mary/jGjA8c99bNn41AFfnybBjp)
+- **fundamentals**
+  - [source codes](2020-12-11)
+  - [x] [merge sort 归并排序](https://www.wolai.com/mary/vhPHPoSz2tLg7iQxY21nHU)
+  - [x] [insertion sort 插入排序](https://www.wolai.com/mary/jGjA8c99bNn41AFfnybBjp)
 
 ## D11-2020/12/14
-[source codes](2020-12-14)
-- [x] [quick sort 快速排序](https://www.wolai.com/mary/fjS4ca8rLervwa5YJYH8Bt)
+- **fundamentals**
+  - [source codes](2020-12-14)
+  - [x] [quick sort 快速排序](https://www.wolai.com/mary/fjS4ca8rLervwa5YJYH8Bt)
+
+## D12-2020/12/15
+- **fundamentals**
+  - [source codes](2020-12-15)
+  - [x] [heap sort 堆排序](https://www.wolai.com/mary/qu4ivQd9VDZquMSTpxtq4t)
