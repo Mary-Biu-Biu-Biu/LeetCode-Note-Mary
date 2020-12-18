@@ -62,8 +62,8 @@ The order of problems will follow my summary in the following link: [算法学�
   - [source code](2020-12-09\1143.js)
 
 ## D9-2020/12/10
-[source codes](2020-12-10)
 - [x] 112. Path Sum（路径总和）
+  - [source codes](2020-12-10)
 
 ## D10-2020/12/11
 - **fundamentals**
@@ -78,10 +78,14 @@ The order of problems will follow my summary in the following link: [算法学�
 
 ## D12-2020/12/15
 - **fundamentals**
-  - [source codes](2020-12-15)
   - [x] [heap sort 堆排序](https://www.wolai.com/mary/qu4ivQd9VDZquMSTpxtq4t)
+    - [source codes](2020-12-15)
 
 ## D13-2020/12/16
 - **fundamentals**
-  - [source codes](2020-12-16)
   - [x] shell sort 希尔排序
+    - [source codes](2020-12-16)
+
+## D14-2020/12/18
+- [x] 236. Lowest Common Ancestor of a Binary Tree（二叉树的最近公共祖先 ）
+  - [source codes](2020-12-18)
