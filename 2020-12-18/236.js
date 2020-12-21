@@ -11,6 +11,7 @@
  * @param {TreeNode} q
  * @return {TreeNode}
  */
+// recursion - time: O(n) space:O(n)
 var lowestCommonAncestor = function (root, p, q) {
     let result
 
