@@ -5,6 +5,7 @@
 // time:O(n),space:O(n)
 var nthUglyNumber = function (n) {
     let arr = [1]
+    // 指向2，3，5分别最小可用的index位置
     let p2 = 0,
         p3 = 0,
         p5 = 0,
