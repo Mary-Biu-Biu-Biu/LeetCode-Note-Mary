@@ -91,16 +91,16 @@ The order of problems will follow my summary in the following link: [算法学�
   - [source codes](2020-12-18)
 
 ## D15-2020/12/21
-- [source codes](2020-12-21)
+[source codes](2020-12-21)
 - [x] 215. Kth Largest Element in an Array (数组中的第 K 个最大元素) 
 - [x] 470. Implement Rand10() Using Rand7()（用 Rand7() 实现 Rand10()） 
 
 ## D16-2020/12/22
-- [source codes](2020-12-22)
+[source codes](2020-12-22)
 - [x] 264. Ugly Number II（丑数 II ）
 
 ## D17-2020/12/23
-- [source codes](2020-12-23)
+[source codes](2020-12-23)
 - [x] 103. Binary Tree Zigzag Level Order Traversal（二叉树的锯齿形层次遍历）
 - [x] 128. Longest Consecutive Sequence（最长连续序列）
 
