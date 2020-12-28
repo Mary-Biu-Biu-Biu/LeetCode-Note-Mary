@@ -104,5 +104,14 @@ The order of problems will follow my summary in the following link: [算法学�
 - [x] 103. Binary Tree Zigzag Level Order Traversal（二叉树的锯齿形层次遍历）
 - [x] 128. Longest Consecutive Sequence（最长连续序列）
 
+## D18-2020/12/24
+[source codes](2020-12-24)
+- [x] 48. Rotate Image（旋转图像）
 
+## D19-2020/12/25
+[source codes](2020-12-25)
+- [x] 169. Majority Element（多数元素 ）
 
+## D20-2020/12/28
+[source codes](2020-12-28)
+- [x] 3. Longest Substring Without Repeating Characters（无重复字符的最长子串）
