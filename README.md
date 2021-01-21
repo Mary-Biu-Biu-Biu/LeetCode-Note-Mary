@@ -124,3 +124,9 @@ The order of problems will follow my summary in the following link: [算法学�
 - [x] 复习链表
   - [x] 21. Merge Two Sorted Lists（合并两个有序链表）（重写递归+迭代）
   - [x] 206. Reverse Linked List（反转链表）（重写递归+迭代）
+
+## 2021/01/21
+（今天不是leetcode）
+- [x] [扔鸡蛋问题](https://www.wolai.com/eyYAAFtVqZCvvjeHXxF1yA)
+- [x] [老鼠毒药问题](https://www.wolai.com/mary/ddh5pqX2WzukqGbQ47FJ61)
+- [x] [64 匹马，8 个赛道，找出前 4 匹马最少需要比几次](https://www.wolai.com/9yaHwqYLZFfm5pfWxuEZsM)
