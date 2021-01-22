@@ -125,8 +125,18 @@ The order of problems will follow my summary in the following link: [算法学�
   - [x] 21. Merge Two Sorted Lists（合并两个有序链表）（重写递归+迭代）
   - [x] 206. Reverse Linked List（反转链表）（重写递归+迭代）
 
+## 2021/01/05-2021/01/20
+- 中途生病了+主要复习[前端基础](https://github.com/Mary-Biu-Biu-Biu/Frontend-Fundamentals-Note-Mary)
+- 更新了一些GitHub其他代码库
+- 疫情隔离+核酸检测
+
 ## 2021/01/21
 （今天不是leetcode）
 - [x] [扔鸡蛋问题](https://www.wolai.com/eyYAAFtVqZCvvjeHXxF1yA)
 - [x] [老鼠毒药问题](https://www.wolai.com/mary/ddh5pqX2WzukqGbQ47FJ61)
 - [x] [64 匹马，8 个赛道，找出前 4 匹马最少需要比几次](https://www.wolai.com/9yaHwqYLZFfm5pfWxuEZsM)
+
+## 2021/01/22
+[source codes](2021-01-22)
+- [x] [剑指 Offer 10- II. 青蛙跳台阶问题 - 力扣（LeetCode）](https://www.wolai.com/spQWoqVsoyUu65ovDQWeQA)（js大数精度问题）
+- [x] [2. Add Two Numbers（两数相加）](https://www.wolai.com/2MNzXcYuo3z382w49p2CLi)
