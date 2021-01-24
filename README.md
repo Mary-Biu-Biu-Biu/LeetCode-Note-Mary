@@ -144,3 +144,8 @@ The order of problems will follow my summary in the following link: [算法学�
 ## 2021/01/23
 [source codes](2021-01-23)
 - [x] 415. Add Strings（字符串相加 /大数相加）
+
+## 2021/01/23
+[source codes](2021-01-24)
+- [x] 215. Kth Largest Element in an Array (数组中的第 K 个最大元素)
+  - （改bug）
